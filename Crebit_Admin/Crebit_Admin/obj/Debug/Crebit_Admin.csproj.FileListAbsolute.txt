@@ -1,0 +1,17 @@
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\Crebit_Admin.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\Crebit_Admin.pdb
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\ClosedXML.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\DocumentFormat.OpenXml.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\ExcelPackage.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\GCM.SendToNotificationHub.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\Microsoft.ServiceBus.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\Newtonsoft.Json.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\System.Net.Http.Formatting.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\System.Web.Cors.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\System.Web.Http.Cors.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\System.Web.Http.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\bin\System.Web.Http.WebHost.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\obj\Debug\Crebit_Admin.csprojResolveAssemblyReference.cache
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\obj\Debug\Crebit_Admin.dll
+C:\Users\DHS\Documents\Visual Studio 2012\Projects\Crebit_Admin\Crebit_Admin\obj\Debug\Crebit_Admin.pdb
